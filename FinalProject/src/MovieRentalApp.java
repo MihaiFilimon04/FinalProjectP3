@@ -8,7 +8,7 @@ import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
 import java.time.format.DateTimeParseException;
 
-
+//add api
 public class MovieRentalApp {
     // JDBC Connection details
     private static final String DB_URL = "jdbc:mysql://localhost:3306/movierental";
